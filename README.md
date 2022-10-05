@@ -1,2 +1,2 @@
 # TaskIt
-A simple TODO List app for gnome
+A simple TODO List app for task analysis
