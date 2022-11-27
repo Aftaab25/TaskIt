@@ -1,2 +1,2 @@
 # TaskIt
-A simple TODO List app for task analysis
+A simple Web based Task Tracker for task analysis
